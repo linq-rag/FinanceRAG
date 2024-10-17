@@ -2,6 +2,7 @@ from .BaseTask import BaseTask
 from .ConvFinQATask import ConvFinQA
 from .FinDERTask import FinDER
 from .FinQABenchTask import FinQABench
+from .FinQATask import FinQA
 from .FinanceBenchTask import FinanceBench
 from .MultiHierttTask import MultiHiertt
 from .TATQATask import TATQA
